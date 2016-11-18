@@ -5,6 +5,3 @@
 
 # I am changing from github to see if i can pull on local
 
-# click "Raw" and save the file to you local repo from github 
-
-# now i will append some comments and push the changes on github 2016-11-18
